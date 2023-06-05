@@ -22,13 +22,12 @@ Just My Socks最大的优势是保证IP不被Q，如果IP被Q，会自动更换�
 
 1. 对于绝大部分网友，5.88刀每月的套餐足够（如果设备多或者想和他人共享，建议9.88刀每月的套餐) just my socks配置界面在“choose billing cycle”下拉框中选择付款周期，月付5.88刀，季付16.88刀，半年付31.88刀，年付58.88刀。可以看到购买时间越长越优惠，**年付相当于买10个月送2个月**。
 2. 鉴于目前服务器被买爆、许多人想上外网的形势，建议年付，不仅优惠较大，也能避免续费时低价套餐被抢没的困境（Just My Socks不满意30天内退款，无需担心）。接着点击右边的“Continue”按钮，进入购物车界面：
+![image](https://github.com/maokongrun/JMS-guide/assets/26140353/da1a5264-a7e1-4378-8487-58a6528041f7)
 
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=Njg1OGVmY2I1NzYxZTQwMzBmNjZiM2NlM2M1NWJmNDNfSmFmZkFqRUJCdkI4OUxaM1lzOTBKTFNqUUNqMkpxU1RfVG9rZW46Ym94Y25LUU92aUY4eW9sWXV5TnB4cGlLM0pkXzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+3. “Apply Promos Code”下方的输入框填入优惠码 **JMS9272283**，然后点击“Validate Code”按钮，能优惠5.2%，年付总金额变成了55.82刀。
+4. 使用完优惠后，点击右边的“Checkout”进入填写账单信息界面：
 
-1. “Apply Promos Code”下方的输入框填入优惠码 **JMS9272283**，然后点击“Validate Code”按钮，能优惠5.2%，年付总金额变成了55.82刀。
-2. 使用完优惠后，点击右边的“Checkout”进入填写账单信息界面：
-
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=YzYzNjQzNDZiMzY0YmM2YjgyMDkwYjNkYjg2MjkwOGFfd3ltRXY2R20yVXlnVWN3V0plWUZPNG80dkl3WXZZRXdfVG9rZW46Ym94Y256SGgxV3luQTB4SGV1RUViekxWMDNjXzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+![image](https://github.com/maokongrun/JMS-guide/assets/26140353/4153a576-99be-4d8e-9ab6-014d4f723a39)
 
 1. 填写你的电子邮箱（必须要能收到邮件），城市填“Beijing”、“Shanghai”等，国家选“China”，然后设置账户密码和确认密码，在付款方式里选Alipay（支付宝）。最后勾选下方的“I have read and agree to the Terms of Service”，点击”Complete Order”进入支付宝付款界面。
 2. 接下来拿出你的手机，打开支付宝扫码付款即可。
@@ -40,17 +39,17 @@ Just My Socks最大的优势是保证IP不被Q，如果IP被Q，会自动更换�
 1. 登录 [Just My Socks官网](https://justmysocks2.net/members/aff.php?aff=23210)（已登录请略过），点击导航菜单的“Service” -> “My Service”，就可以看到你刚才购买的套餐：
 2. 点击购买的套餐，切换到Subscription，复制对应的订阅链接（这个就是可以开启魔法的链接）
 
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=OTcyN2Q4Yjc2YjU0YWM2ZDkxODViMGMzODIwOWViMzhfTHM2MXpWTjhtZEE4Q0QzTGJWSnNQcXRnbEhDcFh2eDlfVG9rZW46Ym94Y25MdFhzZ1ZGVFlEYkRnNHpVMVFjM2R2XzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+![image](https://github.com/maokongrun/JMS-guide/assets/26140353/e5ae2489-ae12-46ab-a261-c28a6bb79cde)
 
 ### 2、下载客户端
 
 从官方下载下载客户端： https://justmysocks2.net/members/index.php?rp=/knowledgebase/5/Software-download-links.html。
 
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=NTdmYmQ2NmZiYzhjZTQyYzQwNTdhNTgzZTM3ZTk2MDdfOGNQMjVQWW14T0ZmaGVsdGJ3UGZwMWZlSGNxd3JlTE9fVG9rZW46Ym94Y240TTdkUm9SQjdYdnFxd1dnYW9jRlRiXzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+![image](https://github.com/maokongrun/JMS-guide/assets/26140353/b900fbe1-4959-4056-a56a-70ffb1359ce1)
 
 Windows下载V2rayN（下方截图中的官方知识库的链接），Mac 更推荐V2rayU（下载入口见：https://github.com/yanue/V2rayU/releases/tag/3.3.0）
 
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=ODZmNDkxYjkzZWUyM2MxNWQ1ZjY4MGVlOGEyYzNkYTZfcUgxODBRM3VPOWZuemtwMEpmMFFTWjZLMEtnb2w2SkxfVG9rZW46Ym94Y25wSDl6S0RQa3VxbWNyekJYbkZQc3llXzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+![image](https://github.com/maokongrun/JMS-guide/assets/26140353/96d4f8e8-4974-4968-a204-001e7287b26a)
 
 ### 3、添加链接到客户端
 
@@ -60,15 +59,15 @@ Windows 客户端：
 
 找到“订阅—订阅设置”，把订阅号链接复制到地址框内，确定，然后，找到“订阅—更新订阅”即可 (**默认更新订阅选择不通过代理即可**)，如下所示 （必须完整粘贴；下图中因为隐私去掉service后面内容）
 
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=YjFkMTVlZjdmYmU4NjViYzVlNzZkNDQzZDgzN2Y2ODRfVVhna3E0WTlvS3hFN1E5SWJUSzRRQzgwU1FTcjFCanJfVG9rZW46Ym94Y253UzlPUXpTbjQ5TExBdllJVGFOb25jXzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+![image](https://github.com/maokongrun/JMS-guide/assets/26140353/16710f35-3f01-482b-8fb0-28fb03065ad6)
 
 Mac 客户端：
 
 打开客户端，选择订阅设置，然后添加订阅号链接即可。
 
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=MTg3NmFmOWE3N2JhZDAyNTA5ODliODBiNGY2ODliOTFfaGlsNml5Mk95cklOb3NwVUtqT1VaajI3TGFZOVc4Q3RfVG9rZW46Ym94Y25BUWhxS1B3SDNPUFV0V0tLMGRNcnlmXzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+![image](https://github.com/maokongrun/JMS-guide/assets/26140353/38278092-ffdd-4ca5-8a32-bfbcafb2142e)
 
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=MGVkNzlhODg2NjUzMTljMTVhYjhhMzBjOTA1N2U0NDlfU2IxM0p2Znd1SzJ5WUxpWGVDOWRmSkdKN1o5R1V5SXJfVG9rZW46Ym94Y25veGFXNW93QVN0YVI2cDZ2VTFkNUVkXzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+
 
 ## 四、注意事项
 
@@ -76,8 +75,9 @@ Mac 客户端：
 
 Win：
 
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=MjFmODI0ODMyZTUxM2RhNWE3MDhjMzdmYjI5M2Q2NzNfOGhCU3JOR0NEdHpQZXRBUGRzemlYZnk0UjM5dU9BSm9fVG9rZW46Ym94Y24yVXVoVkoxUURKdDJGYkxodUpXbFdjXzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+![image](https://github.com/maokongrun/JMS-guide/assets/26140353/d8ad766f-ab5c-4053-b782-894f0df2e3b9)
 
 Mac：
 
-![img](https://mt5f0f3jyg.feishu.cn/space/api/box/stream/download/asynccode/?code=OTZiOGFkMWQyNDE1MDE0NTBmMzcxYzE2MTdkYjlhZGFfN01jOHBIbTNxZ29jSnBkMnlUZFJ4SkRvVXhuRzliSThfVG9rZW46Ym94Y25xMXNkc1ZVQlFjeklOcUVxQUg0SG9jXzE2Nzk5NzMwNjc6MTY3OTk3NjY2N19WNA)
+![image](https://github.com/maokongrun/JMS-guide/assets/26140353/5ed91092-5c1a-47b6-9c7d-adca9c419a3e)
+
